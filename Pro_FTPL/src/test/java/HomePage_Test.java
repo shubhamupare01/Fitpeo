@@ -42,6 +42,10 @@ public class HomePage_Test extends HomePage {
 	}
 
 }
-
-
-//https://github.com/shubhamupare01/Fitpeo.git
+//Handling OTP (One-Time Password) with Selenium can be challenging and often not recommended due to security concerns and technical limitations.
+//Instead of automating OTP entry with Selenium, it's recommended to explore alternative approaches:
+//
+//Manual Entry: Prompt users to enter the OTP manually during test execution.
+//Use Test Accounts: Create test accounts with predefined OTPs for testing purposes.
+//Mocking Services: Use mock services or APIs to simulate OTP generation and bypass OTP validation during testing.
+//API Access: If possible, integrate with APIs provided by OTP service providers to fetch OTPs securely during testing.
